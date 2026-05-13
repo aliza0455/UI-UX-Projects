@@ -41,7 +41,7 @@ https://www.figma.com/design/57bllEIDyrb9OdVNjU5Xne/LandingPage?node-id=0-1&t=pk
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Figma
 - Auto Layout
@@ -51,7 +51,7 @@ https://www.figma.com/design/57bllEIDyrb9OdVNjU5Xne/LandingPage?node-id=0-1&t=pk
 
 ---
 
-## 📖 About Me
+## About Me
 
 I am passionate about UI/UX design and creating intuitive digital experiences.  
 I enjoy designing modern interfaces, improving usability, and learning new design trends.
